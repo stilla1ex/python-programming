@@ -8,4 +8,4 @@
   </a> 
 </div>
 
-- October 2024-30daysofcode challange
+- October 2024-30daysofcode challange 
